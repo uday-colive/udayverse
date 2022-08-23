@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "eed33075d4b212f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b2e8d82228dfb8a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Private key and Public key.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e66c94d69189851",
+    "type": "split",
+    "children": [
+      {
+        "id": "366cf74f1a95e150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8cdd6ac4bb26c40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae1b39e9513c83c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SymmentricEncryption",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "795614f76a2e06c1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 451.5
+  },
+  "right": {
+    "id": "70316d78521f31ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1b9f3cb8672a59b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb894c621736722d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Private key and Public key.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3ef0ae483559aeae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Private key and Public key.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8cefd9f093da0ff3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequencyReverse",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d0b0d48437a996ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Private key and Public key.md"
+              }
+            }
+          },
+          {
+            "id": "77e16413d94855e3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8cefd9f093da0ff3",
+  "lastOpenFiles": [
+    "Dailynotes/2022-08-23.md",
+    "Symmetric and Asymmetric Encryption.md",
+    "openssl Symmentric.md",
+    "Private key and Public key.md",
+    "Dailynotes/2022-08-05.md",
+    "Dailynotes/2022-08-02.md",
+    "Dailynotes/2022-08-01.md",
+    "Untitled 1.md",
+    "Screenshot 2022-08-17 at 5.13.51 PM.png",
+    "Templates/WeeklyTemplate.md"
+  ]
+}
